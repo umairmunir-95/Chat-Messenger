@@ -1,0 +1,9 @@
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\bin\Debug\Chat_Client_App.exe.config
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\bin\Debug\Chat_Client_App.exe
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\bin\Debug\Chat_Client_App.pdb
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\obj\Debug\Chat_Client_App.csprojResolveAssemblyReference.cache
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\obj\Debug\Chat_Client_App.Form1.resources
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\obj\Debug\Chat_Client_App.Properties.Resources.resources
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\obj\Debug\Chat_Client_App.csproj.GenerateResource.Cache
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\obj\Debug\Chat_Client_App.exe
+C:\Users\Marrie\Desktop\Chat_Client_App\Chat_Client_App\obj\Debug\Chat_Client_App.pdb

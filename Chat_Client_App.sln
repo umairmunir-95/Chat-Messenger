@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Client_App", "Chat_Client_App\Chat_Client_App.csproj", "{1137E427-03BB-4109-81EC-2B79843D931E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1137E427-03BB-4109-81EC-2B79843D931E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1137E427-03BB-4109-81EC-2B79843D931E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1137E427-03BB-4109-81EC-2B79843D931E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1137E427-03BB-4109-81EC-2B79843D931E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
